@@ -32,7 +32,7 @@ public class ContactPageTest extends TestBase {
 	@BeforeMethod()
 	public void setup() throws InterruptedException
 	{
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 		initialization();
 		testutil=new Testutil();
 		 loginpage = new LoginPage();
