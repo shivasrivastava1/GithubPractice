@@ -19,7 +19,7 @@ public class HomePageTest extends TestBase {
 
 	public HomePageTest() throws InterruptedException {
 		super();
-		Thread.sleep(3000);
+		Thread.sleep(2000);
 		}
 	
 	@BeforeMethod()
